@@ -10,7 +10,6 @@ Step into the fight across three distinct battlegrounds (Gambit Grounds, Gambit 
 
  ⚔️ Will you leave it to fate or take control with a gambit? ⚔️
  
- [Source files](https://drive.google.com/drive/folders/1PlO6uSis0Wpo8oFeZmvemRLxcDg413wU?usp=drive_link)
 </div>
 
 ## How To Run
