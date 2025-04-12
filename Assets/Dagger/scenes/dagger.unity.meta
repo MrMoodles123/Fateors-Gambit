@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ad4742772aa6b54bad8fbe0ce4bcd4c
+timeCreated: 1471168132
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 69460
+  packageName: Dagger
+  packageVersion: 1.0
+  assetPath: Assets/Dagger/scenes/dagger.unity
+  uploadId: 132266

@@ -1,0 +1,10 @@
+Title,Desc,Stat,Value,Good
+HP UP,Increase your max HP by 15,0,15,1
+Horsepower,Increase your speed by 30%,1,30,1
+Jump Man,Increase your max Jump Height by 25%,2,25,1
+P.E.D.s,Boost all your stats by 5%,3,5,1
+Staff of Hermes, Increase your HP regeneration by 2 HP every second,4,2,1
+Weakness, Decrease your opponent's max HP by 10,0,10,0
+Achilles, Decrease your opponent's speed by 20%,1,20,0
+Weak Knees, Decrease your opponent's max Jump Height by 15%,2,15,0
+Poison, Your opponent loses 1 HP every 1 second,4,1,0

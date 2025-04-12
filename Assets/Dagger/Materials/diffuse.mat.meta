@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0fd194f7c7f76c41a559b2ee73c1053
+timeCreated: 1471175908
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 69460
+  packageName: Dagger
+  packageVersion: 1.0
+  assetPath: Assets/Dagger/Materials/diffuse.mat
+  uploadId: 132266
