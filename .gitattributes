@@ -1,0 +1,2 @@
+FateorsGambitWin/FateorsGambit_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+FateorsGambitWin/FateorsGambit_Data/sharedassets0.resource filter=lfs diff=lfs merge=lfs -text
