@@ -11,9 +11,9 @@ Step into the fight across three distinct battlegrounds (Gambit Grounds, Gambit 
  
 </div>
 <p align="center">
-<img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg1.png" width="350" height = "250"/><img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg2.png" width="350" height = "250"/>
-<img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg3.png" width="350" height = "250"/><img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg4.png" width="350" height = "250"/>
-<img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg5.png" width="350" height = "250"/>
+<img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg1.png" width="400" height = "250"/><img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg2.png" width="400" height = "250"/>
+<img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg3.png" width="400" height = "250"/><img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg4.png" width="400" height = "250"/>
+<img src="https://github.com/MrMoodles123/Fateors-Gambit/blob/main/Images/fg5.png" width="400" height = "250"/>
 </p>
 
 ## How To Run
